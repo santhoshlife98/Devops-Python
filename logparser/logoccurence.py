@@ -1,5 +1,6 @@
 import re
 
+'''Author: Santhosh Bheeman'''
 '''Python code to extract the number of Logs based on date and occurences'''
 
 txtfile="alert.log"
