@@ -1,8 +1,6 @@
 import requests, json
-import subprocess
 import sys
 import os
-import jks
 import uuid
 
 ####################################### TOKEN GENERATION #######################################
