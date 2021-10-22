@@ -1,7 +1,5 @@
 ''' Author @santhosh.bheeman '''
 
-
-
 def check_vowels_consonants(s):
     vow = []
     cons = []
